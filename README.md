@@ -1,0 +1,2 @@
+# RustCord
+Opensourse, messager.
